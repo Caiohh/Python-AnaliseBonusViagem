@@ -3,6 +3,8 @@
 # openpyxl (integração do Python com Excel)
 # twilio (integração do Python com SMS)
 
+# https://www.twilio.com/pt-br/docs/libraries/python
+
 # importar pandas e renomear como pd
 import pandas as pd
 from twilio.rest import Client
